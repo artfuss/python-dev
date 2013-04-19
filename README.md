@@ -10,15 +10,15 @@ INSTALLATION  (WINDOWS)
     python.org (2.7)
 
 2. install pip :
-    download http://python-distribute.org/distribute_setup.py
-    python distribute_setup.py
-    https://raw.github.com/pypa/pip/master/contrib/get-pip.py
+    download http://python-distribute.org/distribute_setup.py\n
+    python distribute_setup.py\n
+    https://raw.github.com/pypa/pip/master/contrib/get-pip.py\n
     python get-pip.py
 
-3. install virtual env
+3. install virtual env\n
     pip install virtualenv
 
-You only need python + pip + virtualenv in the global enviroment. 
+You only need python + pip + virtualenv in the global enviroment. \n
 Install everything else on virtual env.
 
 4. create and activate a virtualenv)
