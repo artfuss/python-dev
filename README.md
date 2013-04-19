@@ -20,12 +20,15 @@ INSTALLATION  (WINDOWS)
 
 You only need python + pip + virtualenv in the global enviroment. 
 Install everything else on virtual env.
+
 4. create and activate a virtualenv)
     virtualenv default
     \default\Scripts\activate
 
 MACHINE LEARNING TOOLCHAIN (numpy + scipy + scikit-klearn + pylab + ipython) on virtualenv
+
 5. pip install ipython
+
 6. numpy/scipy/scikit-learn on virtualenv
    ( pip install numpy doesnt work, see:
    http://stackoverflow.com/questions/6114115/windows-virtualenv-pip-numpy-problems-when-installing-numpy )
@@ -35,6 +38,7 @@ MACHINE LEARNING TOOLCHAIN (numpy + scipy + scikit-klearn + pylab + ipython) on 
     same for scipy as numpy (installer from scipy.org)
     download scikit-learn installer
     easy_install scikit-learn installer
+
 7. downlaod matplotlib installer from http://matplotlib.org/downloads.html
    easy_install matplotlib installer
 
