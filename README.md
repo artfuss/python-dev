@@ -10,9 +10,9 @@ INSTALLATION  (WINDOWS)
     python.org (2.7)
 
 2. install pip :
-    download http://python-distribute.org/distribute_setup.py\n
-    python distribute_setup.py\n
-    https://raw.github.com/pypa/pip/master/contrib/get-pip.py\n
+    download http://python-distribute.org/distribute_setup.py
+    python distribute_setup.py
+    https://raw.github.com/pypa/pip/master/contrib/get-pip.py
     python get-pip.py
 
 3. install virtual env\n
