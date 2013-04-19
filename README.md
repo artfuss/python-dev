@@ -42,6 +42,6 @@ MACHINE LEARNING TOOLCHAIN (numpy + scipy + scikit-klearn + pylab + ipython) on 
 7. downlaod matplotlib installer from http://matplotlib.org/downloads.html
    easy_install matplotlib installer
 
-
+PS:(had to manully copy tcl8.5/tk8.5 to virtualenv python from my system python , for ipython -pylab to work)
 
 HAPPY MACHINE LEARNING !!!!!
